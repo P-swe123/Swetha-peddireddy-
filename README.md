@@ -6,11 +6,6 @@
 
 -Applications 
 
-Health 
-
-Government 
-
-Sports 
 
 #Addition of numbers
 
