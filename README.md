@@ -16,6 +16,6 @@ b=6
 print(a+b)
 
 
-[nature](https://cdn.pixabay.com/photo/2021/08/25/20/42/field-6574455_640.jpg)
+[nature](https://media.istockphoto.com/id/1403500817/photo/the-craggies-in-the-blue-ridge-mountains.jpg?s=612x612&w=0&k=20&c=N-pGA8OClRVDzRfj_9AqANnOaDS3devZWwrQNwZuDSk=)
 
 
